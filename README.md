@@ -19,11 +19,50 @@ Hypotheses:
 Economic factors (GDP, employment) have the strongest correlation with happiness.
 Social factors (freedom, trust, generosity) play a stronger role in long-term improvement.
 There is a significant difference in average happiness scores between regions.
-The effect of corruption perception on happiness varies significantly by continent.
-Political stability’s impact on happiness is stronger in regions with lower average democratic index scores
+
+# Life Expectancy vs Happiness Score
+Observations:
+
+Finland shows a noticeable increase in both life expectancy and happiness score, especially from 2017 onwards.
+Denmark shows stable happiness scores and a steady rise in life expectancy.
+Switzerland and Iceland show slight declines in life expectancy with fairly stable or slightly decreasing happiness scores.
+Norway has minor fluctuations in both metrics but generally remains high in happiness with a slight drop in life expectancy in some years.
+
+# Freedom vs Happiness Score
+Observations:
+
+Again, Finland stands out with a significant rise in both freedom and happiness scores.
+Norway and Denmark show stable or slightly increasing trends in both metrics.
+Switzerland and Iceland show flat or declining freedom scores with corresponding mild decreases in happiness.
+
+# Overall Insights Across Both Graphs:
+Finland shows consistent growth across life expectancy, freedom, and happiness, suggesting well-rounded development.
+Denmark and Norway maintain stable or slightly improving indicators, reflecting continued high quality of life.
+Switzerland and Iceland show mild stagnation or decline, possibly indicating areas needing policy attention.
 
 
-Challenges in Improving Happiness
+ # Corruption vs Happiness Score
+ Observations:
+
+ Finland shows a clear decrease in corruption over time (good governance) and a simultaneous increase in happiness.
+ Denmark and Norway maintain relatively low corruption and stable happiness.
+ Switzerland and Iceland display slightly higher or stable corruption levels with stagnant or declining happiness scores.
+
+# Generosity vs Happiness Score
+ Observations:
+
+Finland again shows a consistent upward trend in both generosity and happiness, highlighting a strong correlation.
+Switzerland maintains the highest generosity levels across the period but with slightly declining happiness, suggesting that generosity alone may not be sufficient for happiness.
+Denmark and Norway show modest generosity with stable happiness.
+Iceland shows relatively lower generosity and flat happiness.
+
+# Overall Comparison Across Both Graphs:
+Finland consistently improves across corruption, generosity, and happiness — indicating a well-rounded policy success.
+Denmark and Norway maintain high scores through stability and low corruption.
+Switzerland and Iceland demonstrate that high generosity or low corruption alone may not guarantee rising happiness — suggesting the need for a balanced approach across factors.
+
+
+# Challenges in Improving Happiness
 
 Data Limitations: Sometimes there’s data inconsistencies and short term policies may lack immediate impact.
 
