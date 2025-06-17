@@ -17,7 +17,9 @@ How can international organizations or national governments improve happiness in
 
 Hypotheses:
 H1: A higher GDP per capita does not always correlate with higher happiness — some countries with high GDP may still rank low in happiness.
+
 H2: Social factors (social support, freedom, generosity, corruption) play a stronger role in long term improvement.
+
 H3: There is a significant difference in average happiness scores between regions.
 
 # Life Expectancy vs Happiness Score
