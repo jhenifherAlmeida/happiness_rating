@@ -16,9 +16,9 @@ How can international organizations or national governments improve happiness in
 
 
 Hypotheses:
-Economic factors (GDP, employment) have the strongest correlation with happiness.
-Social factors (freedom, trust, generosity) play a stronger role in long-term improvement.
-There is a significant difference in average happiness scores between regions.
+H1: A higher GDP per capita does not always correlate with higher happiness — some countries with high GDP may still rank low in happiness.
+H2: Social factors (social support, freedom, generosity, corruption) play a stronger role in long term improvement.
+H3: There is a significant difference in average happiness scores between regions.
 
 # Life Expectancy vs Happiness Score
 Observations:
@@ -69,5 +69,6 @@ Data Limitations: Sometimes there’s data inconsistencies and short term polici
 Structural and Geopolitical Barriers: Persistent poverty, weak infrastructure, and inequality .Political instability impacts the effectiveness of policies, which are sometimes constrained by national interests.
 
 One-Size-Doesn’t-Fit-All Policies: Every country has its own unique characteristics, making it impossible to standardize all policies.
-Recommendations
+
+# Recommendations
 Supporting the economy is essential, as it significantly impacts happiness and encourages investment and development in key areas such as health and social support. As these areas reach a level of sustainability, we also recommend promoting freedom of choice, reducing corruption, and encouraging generosity and support among communities, as these factors have been shown to improve overall happiness.
